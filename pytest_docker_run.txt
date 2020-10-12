@@ -1,0 +1,15 @@
+https://github.com/larsderidder/docker-compose-development-env
+
+https://hasura.io/blog/how-to-write-dockerfiles-for-python-web-apps-6d173842ae1d/
+
+https://code.visualstudio.com/docs/containers/quickstart-python
+
+https://github.com/jonocodes/envoy
+
+https://docs.pytest.org/en/latest/cache.html
+
+https://stackoverflow.com/questions/55583264/unable-to-run-pytests-in-a-docker-container
+
+https://stackoverflow.com/questions/47568739/running-containerized-pytest
+
+pytest -s # The -s switch disables per-test capturing (only if a test fails).
